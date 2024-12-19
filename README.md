@@ -1,5 +1,4 @@
-# --Design-of-Infrared-Thermometer
-Design of Infrared Thermometer
+# Design-of-Infrared-Thermometer
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f86407db2a1345bbaf98711706c49748.png)
 
